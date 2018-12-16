@@ -1,0 +1,22 @@
+header
+{
+	background-image: url(../picture/banniere.jpg);
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#category_header
+{
+	margin-left: 1%;
+}
+
+#user_connect
+{
+	float: right;
+	margin-right: 1%;
+}
+
+footer
+{
+	text-align:center;
+}
